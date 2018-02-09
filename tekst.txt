@@ -1,0 +1,4 @@
+Opiszmy działanie pewnego nadajnika radiowego — nadajnika głosowego modulującego amplitudę nadawanej fali.
+Opiszmy działanie pewnego nadajnika radiowego — nadajnika
+głosowego modulującego amplitudę nadawanej fali. Taki nadajnik jest
+częścią każdego CB radia. Zastosujmy w tym celu schemat blokowy.
